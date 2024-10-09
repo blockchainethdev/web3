@@ -6,6 +6,7 @@
     "require": {
         "php": ">=7.0"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Blockchainethdev\\web3\\": "src/"
