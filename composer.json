@@ -1,0 +1,14 @@
+{
+    "name": "blockchainethdev/web3",
+    "description": "php web3 interface",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blockchainethdev\\web3\\": "src/"
+        }
+    }
+}
