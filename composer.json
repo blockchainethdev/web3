@@ -9,7 +9,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Blockchainethdev\\web3\\": "src/"
+            "Flower\\Rose\\": "src/Flower/Rose"
         }
     }
 }
