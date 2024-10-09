@@ -6,7 +6,7 @@
  * Time: 21:39
  */
 
-namespace Blockchainethdev\Contract;
+namespace Blockchainethdev\Web3;
 
 class Contract
 {
