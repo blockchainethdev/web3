@@ -9,7 +9,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Flower\\Rose\\": "src/Flower/Rose"
+            "Flower\\Rose\\": "src/Flower"
         }
     }
 }
